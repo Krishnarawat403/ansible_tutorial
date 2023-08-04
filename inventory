@@ -1,0 +1,7 @@
+[web_server]
+172.31.13.212 ansible_user=ec2-user
+ip-172-31-15-146
+
+[database]
+ip-172-31-15-103
+
